@@ -1,10 +1,8 @@
 .container{
-	        
-           
-	        border-left: 5px;
-            padding: 10px;
-            font-size: 20px;
+	        border-left:0px 0px 0px 5px;
+            padding:10px;
+            font-size:20px;
 	        color: white;
 	        text-decoration: underline;
-}
+ }
 /* Your CSS Code here. */
